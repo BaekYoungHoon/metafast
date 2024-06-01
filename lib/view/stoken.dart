@@ -141,7 +141,7 @@ class sToken extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        '문희사항',
+                        '문의사항',
                         style: TextStyle(
                             color: mainWhite,
                             fontSize: 15,
