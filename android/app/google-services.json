@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544233609681",
+    "project_id": "metafast1-50125",
+    "storage_bucket": "metafast1-50125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544233609681:android:b94966bfec37d21c50a8f0",
+        "android_client_info": {
+          "package_name": "com.metafast.app.metafast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjPjzdCgQvd5OE76WwQEcywNWa9CvI0BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

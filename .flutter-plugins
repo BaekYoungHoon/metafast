@@ -1,0 +1,11 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/hoon/.pub-cache/hosted/pub.dev/cloud_firestore-4.17.3/
+cloud_firestore_web=/Users/hoon/.pub-cache/hosted/pub.dev/cloud_firestore_web-3.12.3/
+firebase_core=/Users/hoon/.pub-cache/hosted/pub.dev/firebase_core-2.31.0/
+firebase_core_web=/Users/hoon/.pub-cache/hosted/pub.dev/firebase_core_web-2.17.0/
+firebase_storage=/Users/hoon/.pub-cache/hosted/pub.dev/firebase_storage-11.7.5/
+firebase_storage_web=/Users/hoon/.pub-cache/hosted/pub.dev/firebase_storage_web-3.9.5/
+video_player=/Users/hoon/.pub-cache/hosted/pub.dev/video_player-2.8.6/
+video_player_android=/Users/hoon/.pub-cache/hosted/pub.dev/video_player_android-2.4.14/
+video_player_avfoundation=/Users/hoon/.pub-cache/hosted/pub.dev/video_player_avfoundation-2.6.1/
+video_player_web=/Users/hoon/.pub-cache/hosted/pub.dev/video_player_web-2.3.0/

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAFPkfJRtNqm3nxOO2BM4H6r1l07HunwxQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>544233609681</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.metafast.app.metafast</string>
+	<key>PROJECT_ID</key>
+	<string>metafast1-50125</string>
+	<key>STORAGE_BUCKET</key>
+	<string>metafast1-50125.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:544233609681:ios:4ea39ae4d2ea6a0a50a8f0</string>
+</dict>
+</plist>
