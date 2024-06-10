@@ -9,6 +9,7 @@ import 'package:metafast/view/video.dart';
 import 'package:metafast/data/color.dart';
 import 'package:metafast/data/controller.dart';
 import 'package:metafast/view/signup.dart';
+import 'package:metafast/view/notice.dart';
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
@@ -305,6 +306,33 @@ class MyHomePage extends StatelessWidget {
                     ),
                   ),
                 ],
+              ),
+              SizedBox(height: 20,),
+              GestureDetector(
+                onTap: (){
+                  Get.to(Notice());
+                },
+                child: Container(
+                  width: size.width,
+                  height: 50,
+                  decoration: BoxDecoration(
+                    color: mainGrey,
+                    borderRadius: BorderRadius.circular(10),
+                    border: Border.all(
+                      color: mainWhite,
+                      width: 2,
+                    ),
+                  ),
+                  child: Center(
+                    child: Text(
+                      "공지사항",
+                      style: TextStyle(
+                        color: mainWhite,
+                        fontSize: 20,
+                      ),
+                    ),
+                  ),
+                ),
               )
             ],
           ),
@@ -331,7 +359,7 @@ class MyHomePage extends StatelessWidget {
                   height: double.infinity,
                   child: Center(
                     child: Text(
-                      "가맹점 가입",
+                      "Meta-F / 가맹점",
                       style: TextStyle(
                         color: mainWhite,
                         fontSize: 20,
@@ -355,7 +383,7 @@ class MyHomePage extends StatelessWidget {
                     height: double.infinity,
                     child: Center(
                       child: Text(
-                        "S 토큰 주식",
+                        "Meta-S Token",
                         style: TextStyle(
                           color: mainWhite,
                           fontSize: 20,
